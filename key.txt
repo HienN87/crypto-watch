@@ -1,0 +1,5 @@
+7850fe97ada75995b8733ed5eee827f81db6029e
+
+https://api.nomics.com/v1/currencies/ticker?key=7850fe97ada75995b8733ed5eee827f81db6029e&ids=BTC,ETH,AAVE&interval=1d,30d,365d
+
+https://api.nomics.com/v1/currencies?key=7850fe97ada75995b8733ed5eee827f81db6029e&ids=BTC&attributes=id,name,logo_url,description,reddit_url
